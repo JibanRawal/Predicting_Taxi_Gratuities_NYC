@@ -13,5 +13,7 @@
     . The data consisted of approximately 408k unique trips and 18 features. The features included information on trip duration and destination, vendor used, toll information, and payment type. The bar chart below shows the breakdown of how many generous tippers (>20%) versus non-generous tippers that exist in the data set.
 </p>
   <img scr="images/Fig1.png" alt="Non-Generous vs Generous Tippers" >
+  <img src="images/Fig1.png" alt="Alt Text" width="600" />
+
 </section>
 
