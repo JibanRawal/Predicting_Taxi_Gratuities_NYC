@@ -12,6 +12,6 @@
 <a href="https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page">NYC.gov</a>
     . The data consisted of approximately 408k unique trips and 18 features. The features included information on trip duration and destination, vendor used, toll information, and payment type. The bar chart below shows the breakdown of how many generous tippers (>20%) versus non-generous tippers that exist in the data set.
 </p>
-  <img scr="https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/eJoO6Ik-Tza6ZlJe79ihFw_fba3b66b66514fdb8dd744a23b4881f1_ADA_R-433_Tippers.png?expiry=1737331200000&hmac=K9YKcGPWK0rFSwRJ6CM06O-NN03W3vK5DAJM6uNCSGU" alt="Non-Generous vs Generous Tippers" >
+  <img scr="images/Fig1.png" alt="Non-Generous vs Generous Tippers" >
 </section>
 
